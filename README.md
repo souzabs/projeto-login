@@ -4,6 +4,7 @@
  É um projeto bem simples, apenas para treinamento de responsividade que é o principal foco da atividade.<br>
  Link para acessar a landing page: https://souzabs.github.io/projeto-login/
 <br>
+![cll1](https://github.com/souzabs/projeto-login/assets/131911164/3a796958-8dbf-478d-82d4-a57169b60872)
 <br>
 ![cll2](https://github.com/souzabs/projeto-login/assets/131911164/536baad0-46ce-4b9c-acbd-2f47cd50df21)
 Print celular na horizontal
